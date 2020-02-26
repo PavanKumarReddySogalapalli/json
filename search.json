@@ -1,0 +1,169 @@
+[{
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "01/28/2013",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "92646A641",
+	"rating": "2",
+	"morningStar3year": {
+		"rating": 3,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 2,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 2,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "VDSYX",
+	"classes": ["Y"]
+}, {
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "03/01/2014",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "92646A435",
+	"rating": "2",
+	"morningStar3year": {
+		"rating": 3,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 2,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 2,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "VDSRX",
+	"classes": ["R6"]
+}, {
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "03/26/1999",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "926464421",
+	"rating": "2",
+	"morningStar3year": {
+		"rating": 2,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 2,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 1,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "GRINX",
+	"classes": ["R"]
+}, {
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "08/31/2007",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "92646A856",
+	"rating": "2",
+	"morningStar3year": {
+		"rating": 3,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 2,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 2,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "VDSIX",
+	"classes": ["I"]
+}, {
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "03/01/2002",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "926464157",
+	"rating": "1",
+	"morningStar3year": {
+		"rating": 2,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 1,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 1,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "VDSCX",
+	"classes": ["C"]
+}, {
+	"name": "Victory Diversified Stock Fund",
+	"as_of": "01/31/2020",
+	"inception_date": "10/28/1989",
+	"latest_nav": 35,
+	"wk_change": "+0.35%",
+	"category": "Large Blend",
+	"morningStarGroupOverall": "1208",
+	"cusip": "926464603",
+	"rating": "2",
+	"morningStar3year": {
+		"rating": 3,
+		"overall": 1208
+	},
+	"morningStar5year": {
+		"rating": 2,
+		"overall": 1056
+	},
+	"morningStar10year": {
+		"rating": 2,
+		"overall": 806
+	},
+	"benchmark": "",
+	"active_share": "",
+	"evestment_cat": "",
+	"strategy_assets": "",
+	"ticker": "SRVEX",
+	"classes": ["A"]
+}]
